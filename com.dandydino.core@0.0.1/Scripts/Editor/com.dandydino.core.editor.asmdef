@@ -1,0 +1,19 @@
+{
+    "name": "com.dandydino.core.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8b5fdb74959d0f44baac23205aa2cfa3",
+        "GUID:c02e11f95dd7b1a4ebed30b56ab512dd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
